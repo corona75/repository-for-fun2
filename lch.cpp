@@ -23,6 +23,6 @@ void print_array_reverse(const double* pArray,int size)
 	}
 	else
 	{
-		printf("매개변수로 NULL 혹은 원소의 개수가 0개입니다.\n");
+		printf("매개변수로 NULL 혹은 원소개수가 0개입니다.\n");
 	}
 }
